@@ -2,6 +2,6 @@
 
 ### Contact
 
-1. medineozkanli.github.io
-2. ozknlimedine@gmail.com
+Github: medineozkanli.github.io
+E-Mail: ozknlimedine@gmail.com
 
