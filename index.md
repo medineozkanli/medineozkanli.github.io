@@ -1,7 +1,9 @@
 ## Medine Özkanlı - Computer Engineer
 
+Github: medineozkanli.github.io
+
 ### Contact
 
-Github: medineozkanli.github.io
 E-Mail: ozknlimedine@gmail.com
+
 
